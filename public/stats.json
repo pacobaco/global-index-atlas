@@ -1,0 +1,102 @@
+{
+  "total_indices": 82919,
+  "distinct_regions": 11,
+  "distinct_providers": 12,
+  "distinct_exchanges": 62,
+  "top_regions": [
+    {
+      "name": "Unspecified / mixed",
+      "count": 47383
+    },
+    {
+      "name": "United States",
+      "count": 13672
+    },
+    {
+      "name": "Europe",
+      "count": 6530
+    },
+    {
+      "name": "Emerging Markets",
+      "count": 4352
+    },
+    {
+      "name": "Global",
+      "count": 4187
+    },
+    {
+      "name": "Japan",
+      "count": 2507
+    },
+    {
+      "name": "Middle East & Africa",
+      "count": 1032
+    },
+    {
+      "name": "Asia-Pacific",
+      "count": 921
+    },
+    {
+      "name": "China",
+      "count": 896
+    },
+    {
+      "name": "Latin America",
+      "count": 818
+    },
+    {
+      "name": "India",
+      "count": 621
+    }
+  ],
+  "top_providers": [
+    {
+      "name": "Nasdaq",
+      "count": 45060
+    },
+    {
+      "name": "Unclassified / multiple providers",
+      "count": 29780
+    },
+    {
+      "name": "S&P Dow Jones Indices",
+      "count": 3796
+    },
+    {
+      "name": "FTSE Russell",
+      "count": 2440
+    },
+    {
+      "name": "MSCI",
+      "count": 1214
+    },
+    {
+      "name": "NYSE",
+      "count": 191
+    },
+    {
+      "name": "STOXX",
+      "count": 143
+    },
+    {
+      "name": "Shanghai Stock Exchange",
+      "count": 135
+    },
+    {
+      "name": "Japan Exchange / Nikkei",
+      "count": 83
+    },
+    {
+      "name": "China Securities Index",
+      "count": 39
+    },
+    {
+      "name": "Shenzhen Stock Exchange",
+      "count": 23
+    },
+    {
+      "name": "Hang Seng Indexes",
+      "count": 15
+    }
+  ]
+}

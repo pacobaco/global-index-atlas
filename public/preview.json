@@ -1,0 +1,2252 @@
+[
+  {
+    "index_symbol": "000008.SS",
+    "index_name": "SSE Conglomerates Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000019.SS",
+    "index_name": "SSE Corporate Governance Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000021.SS",
+    "index_name": "SSE 180 Corporate Governance In",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000048.SS",
+    "index_name": "SSE Social Responsibility Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000052.SS",
+    "index_name": "SSE50 Fundamental Weighted Inde",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000053.SS",
+    "index_name": "SSE180 Fundamental Weighted  In",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000096.SS",
+    "index_name": "SSE Downstream Industry Index I",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000098.SS",
+    "index_name": "SSEF 200 Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000099.SS",
+    "index_name": "SSEF 300 Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000100.SS",
+    "index_name": "SSEF 500 Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000121.SS",
+    "index_name": "SSE Health Care theme Index Ind",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Health Care"
+  },
+  {
+    "index_symbol": "000125.SS",
+    "index_name": "SSE 180 Stability Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000128.SS",
+    "index_name": "SSE380 Fundamental Weighted Ind",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000129.SS",
+    "index_name": "SSE180 Volatility Weighted Inde",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000130.SS",
+    "index_name": "SSE380 Volatility Weighted Inde",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000142.SS",
+    "index_name": "SSE 380 Stability Index",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "000147.SS",
+    "index_name": "SSE Select Consumption Industri",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "Shanghai Stock Exchange",
+    "market_scope_guess": "China",
+    "category": "Consumer Discretionary"
+  },
+  {
+    "index_symbol": "000941.SS",
+    "index_name": "CSI CN Mainland New Energy Inde",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "China Securities Index",
+    "market_scope_guess": "China",
+    "category": "Energy"
+  },
+  {
+    "index_symbol": "000942.SS",
+    "index_name": "CSI China Mainland Consumer Ind",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "China Securities Index",
+    "market_scope_guess": "China",
+    "category": "Consumer Discretionary"
+  },
+  {
+    "index_symbol": "000944.SS",
+    "index_name": "CSI China Mainland Natural Reso",
+    "currency": "CNY",
+    "exchange_code": "SHH",
+    "provider_guess": "China Securities Index",
+    "market_scope_guess": "China",
+    "category": "Materials"
+  },
+  {
+    "index_symbol": "0020.Z",
+    "index_name": "ESTX LRB50 NR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "0021.Z",
+    "index_name": "ESTX LRB50 NR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "0022.Z",
+    "index_name": "ESTX LRB50 PR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "0023.Z",
+    "index_name": "ESTX LRB50 PR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "0027.Z",
+    "index_name": "STXE LR100 GR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "0028.Z",
+    "index_name": "STXE LR100 GR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "0029.Z",
+    "index_name": "STXE LR100 NR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "002A.Z",
+    "index_name": "ESTX LR50 NR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002B.Z",
+    "index_name": "ESTX LR50 NR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002C.Z",
+    "index_name": "ESTX LR50 PR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002D.Z",
+    "index_name": "ESTX LR50 PR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002G.Z",
+    "index_name": "ESTX LR100 NR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002H.Z",
+    "index_name": "ESTX LR100 NR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002J.Z",
+    "index_name": "ESTX LR100 PR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002K.Z",
+    "index_name": "ESTX LR100 PR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002L.Z",
+    "index_name": "ESTX LR150 GR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002M.Z",
+    "index_name": "ESTX LR150 GR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002N.Z",
+    "index_name": "ESTX LR150 NR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002P.Z",
+    "index_name": "ESTX LR150 NR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002Q.Z",
+    "index_name": "ESTX LR150 PR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002R.Z",
+    "index_name": "ESTX LR150 PR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002S.Z",
+    "index_name": "ESTX LRB30 GR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002T.Z",
+    "index_name": "ESTX LRB30 GR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002U.Z",
+    "index_name": "ESTX LRB30 NR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002V.Z",
+    "index_name": "ESTX LRB30 NR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002W.Z",
+    "index_name": "ESTX LRB30 PR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002X.Z",
+    "index_name": "ESTX LRB30 PR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002Y.Z",
+    "index_name": "ESTX LRB50 GR EUR",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "002Z.Z",
+    "index_name": "ESTX LRB50 GR USD",
+    "currency": "USD",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Large Cap"
+  },
+  {
+    "index_symbol": "0065.Z",
+    "index_name": "STXE LOW CARB.50 EW PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "0066.Z",
+    "index_name": "STXE LOW CARB.50 EW PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "0067.Z",
+    "index_name": "STXE LOW CARB.50 EW NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "0068.Z",
+    "index_name": "STXE LOW CARB.50 EW NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006A.Z",
+    "index_name": "ESTX REP.LOW CARBON PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006B.Z",
+    "index_name": "ESTX REP.LOW CARBON NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006C.Z",
+    "index_name": "ESTX REP.LOW CARBON NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006E.Z",
+    "index_name": "ESTX REP.LOW CARBON GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006T.Z",
+    "index_name": "STXE L.CARB.100 EW PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006U.Z",
+    "index_name": "STXE L.CARB.100 EW PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006V.Z",
+    "index_name": "STXE L.CARB.100 EW NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006W.Z",
+    "index_name": "STXE L.CARB.100 EW NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006X.Z",
+    "index_name": "STXE L.CARB.100 EW GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "006Y.Z",
+    "index_name": "STXE LO.CARB.100 EW GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "0091.Z",
+    "index_name": "STX.EME.MAR. 800 LO GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Emerging Markets",
+    "category": "Emerging Markets"
+  },
+  {
+    "index_symbol": "0092.Z",
+    "index_name": "STX.EME.MAR. 800 LO PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Emerging Markets",
+    "category": "Emerging Markets"
+  },
+  {
+    "index_symbol": "0093.Z",
+    "index_name": "STX.EME.MAR. 800 LO NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Emerging Markets",
+    "category": "Emerging Markets"
+  },
+  {
+    "index_symbol": "0094.Z",
+    "index_name": "STX.EME.MAR. 800 LO GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Emerging Markets",
+    "category": "Emerging Markets"
+  },
+  {
+    "index_symbol": "0096.Z",
+    "index_name": "ISTX M.G.EX J.Q.D250NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "0097.Z",
+    "index_name": "ISTX M.G.EX J.Q.D250GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "0098.Z",
+    "index_name": "ISTX M.G.EX A.Q.D300PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "0099.Z",
+    "index_name": "ISTX M.G.EX A.Q.D300NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009L.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.GR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009M.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.NR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009N.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.PR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009P.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.GR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009R.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.PR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009S.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.GR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009T.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.PR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009U.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.PR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009X.Z",
+    "index_name": "STX EM 800 LO MIN.VAR.PR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "009Y.Z",
+    "index_name": "STX.EME.MAR. 800 LO PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Emerging Markets",
+    "category": "Emerging Markets"
+  },
+  {
+    "index_symbol": "009Z.Z",
+    "index_name": "STX.EME.MAR. 800 LO NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Emerging Markets",
+    "category": "Emerging Markets"
+  },
+  {
+    "index_symbol": "00A0.Z",
+    "index_name": "STX GLB.CLI.CH.LEAD.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A1.Z",
+    "index_name": "STX GLB.CLI.CH.LEAD.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A2.Z",
+    "index_name": "STX GLB.CLI.CH.LEAD.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A3.Z",
+    "index_name": "STX GLB.CLI.CH.LEAD.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A4.Z",
+    "index_name": "STX G.L.CARB.100 EW PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A5.Z",
+    "index_name": "STX G.L.CARB.100 EW PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A6.Z",
+    "index_name": "STX G.L.CARB.100 EW NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A7.Z",
+    "index_name": "STX G.L.CARB.100 EW NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A8.Z",
+    "index_name": "STX G.L.CARB.100 EW GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00A9.Z",
+    "index_name": "STX G.L.CARB.100 EW GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AB.Z",
+    "index_name": "STX G.1800E.EU.L.CA.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AC.Z",
+    "index_name": "STX G.1800E.EU.L.CA.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AD.Z",
+    "index_name": "STX G.1800E.EU.L.CA.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AE.Z",
+    "index_name": "STX G.1800E.EU.L.CA.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AF.Z",
+    "index_name": "STX G.1800E.EU.L.CA.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AG.Z",
+    "index_name": "STX G.1800E.EU.L.CA.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AH.Z",
+    "index_name": "STX G.1800E.JA.L.CA.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AJ.Z",
+    "index_name": "STX G.1800E.JA.L.CA.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AK.Z",
+    "index_name": "STX G.1800E.JA.L.CA.PR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AL.Z",
+    "index_name": "STX G.1800E.JA.L.CA.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AM.Z",
+    "index_name": "STX G.1800E.JA.L.CA.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AN.Z",
+    "index_name": "STX G.1800E.JA.L.CA.NR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AP.Z",
+    "index_name": "STX G.1800E.JA.L.CA.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AQ.Z",
+    "index_name": "STX G.1800E.JA.L.CA.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AR.Z",
+    "index_name": "STX G.1800E.JA.L.CA.GR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AS.Z",
+    "index_name": "STX G.1800E.US.L.CA.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AT.Z",
+    "index_name": "STX G.1800E.US.L.CA.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AU.Z",
+    "index_name": "STX G.1800E.US.L.CA.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AV.Z",
+    "index_name": "STX G.1800E.US.L.CA.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AW.Z",
+    "index_name": "STX G.1800E.US.L.CA.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AX.Z",
+    "index_name": "STX G.1800E.US.L.CA.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AY.Z",
+    "index_name": "STX GLB.CLI.CH.LEAD.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00AZ.Z",
+    "index_name": "STX GLB.CLI.CH.LEAD.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C0.Z",
+    "index_name": "STX GLB.REP.L.CARB.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C1.Z",
+    "index_name": "STX GLB.REP.L.CARB.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C2.Z",
+    "index_name": "STX GLB.REP.L.CARB.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C3.Z",
+    "index_name": "STX GLB.REP.L.CARB.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C4.Z",
+    "index_name": "STX GLB.REP.L.CARB.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C5.Z",
+    "index_name": "STX GLB.REP.L.CARB.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C6.Z",
+    "index_name": "STX GLB.REP.L.CARB.PR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C7.Z",
+    "index_name": "STX GLB.REP.L.CARB.NR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C8.Z",
+    "index_name": "STX GLB.REP.L.CARB.GR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00C9.Z",
+    "index_name": "STX USA LO.CA.50 EW PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CA.Z",
+    "index_name": "STX GL.LOW CARB.100 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CB.Z",
+    "index_name": "STX GL.LOW CARB.100 PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CC.Z",
+    "index_name": "STX GL.LOW CARB.100 NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CD.Z",
+    "index_name": "STX GL.LOW CARB.100 NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CE.Z",
+    "index_name": "STX GL.LOW CARB.100 GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CF.Z",
+    "index_name": "STX GL.LOW CARB.100 GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CG.Z",
+    "index_name": "STX GLB.L.CA.400 EW PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CH.Z",
+    "index_name": "STX GLB.L.CA.400 EW PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CJ.Z",
+    "index_name": "STX GLB.L.CA.400 EW NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CK.Z",
+    "index_name": "STX GLB.L.CA.400 EW NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CL.Z",
+    "index_name": "STX GLB.L.CA.400 EW GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CM.Z",
+    "index_name": "STX GLB.L.CA.400 EW GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CN.Z",
+    "index_name": "STX GLB.LOW CAR.400 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CP.Z",
+    "index_name": "STX GLB.LOW CAR.400 PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CQ.Z",
+    "index_name": "STX GLB.LOW CAR.400 NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CR.Z",
+    "index_name": "STX GLB.LOW CAR.400 NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CS.Z",
+    "index_name": "STX GLB.LOW CAR.400 GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CT.Z",
+    "index_name": "STX GLB.LOW CAR.400 GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CU.Z",
+    "index_name": "STX GLB.L.CAR.FOOTP.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CV.Z",
+    "index_name": "STX GLB.L.CAR.FOOTP.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CW.Z",
+    "index_name": "STX GLB.L.CAR.FOOTP.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CX.Z",
+    "index_name": "STX GLB.L.CAR.FOOTP.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CY.Z",
+    "index_name": "STX GLB.L.CAR.FOOTP.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00CZ.Z",
+    "index_name": "STX GLB.L.CAR.FOOTP.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00F0.Z",
+    "index_name": "STX GLB.1800 LO.CAR.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00F1.Z",
+    "index_name": "STX GLB.1800 LO.CAR.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00F2.Z",
+    "index_name": "STX GLB.1800 LO.CAR.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00F3.Z",
+    "index_name": "STX GLB.1800 LO.CAR.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00F4.Z",
+    "index_name": "STX GLB.1800 LO.CAR.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": ""
+  },
+  {
+    "index_symbol": "00F6.Z",
+    "index_name": "ISTX MUTB GL.QU.150 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00F7.Z",
+    "index_name": "ISTX MUTB GL.QU.150 NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00F8.Z",
+    "index_name": "ISTX MUTB GL.QU.150 GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00F9.Z",
+    "index_name": "ISTX MUTB GL.QU.150 PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FA.Z",
+    "index_name": "STX USA LO.CA.50 EW PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FB.Z",
+    "index_name": "STX USA LO.CA.50 EW NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FC.Z",
+    "index_name": "STX USA LO.CA.50 EW NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FD.Z",
+    "index_name": "STX USA LO.CA.50 EW GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FE.Z",
+    "index_name": "STX USA LO.CA.50 EW GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FF.Z",
+    "index_name": "STX USA LOW CARB.50 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FG.Z",
+    "index_name": "STX USA LOW CARB.50 PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FH.Z",
+    "index_name": "STX USA LOW CARB.50 NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FJ.Z",
+    "index_name": "STX USA LOW CARB.50 NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FK.Z",
+    "index_name": "STX USA LOW CARB.50 GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FL.Z",
+    "index_name": "STX USA LOW CARB.50 GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": ""
+  },
+  {
+    "index_symbol": "00FT.Z",
+    "index_name": "STX USA REP.LO.CARB.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FU.Z",
+    "index_name": "STX USA REP.LO.CARB.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FV.Z",
+    "index_name": "STX USA REP.LO.CARB.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FW.Z",
+    "index_name": "STX USA REP.LO.CARB.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FX.Z",
+    "index_name": "STX USA REP.LO.CARB.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FY.Z",
+    "index_name": "STX USA REP.LO.CARB.GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "United States",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00FZ.Z",
+    "index_name": "STX GLB.1800 LO.CAR.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H0.Z",
+    "index_name": "STX ESG LD.GL.EX EZ NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H1.Z",
+    "index_name": "STX ESG LD.GL.EX EZ PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H2.Z",
+    "index_name": "STX ESG LD.GL.EX EZ GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H3.Z",
+    "index_name": "STX ESG LD.GL.EX EZ PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H4.Z",
+    "index_name": "STX ESG LD.GL.EX EZ NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H5.Z",
+    "index_name": "STX ESG LD.GL.EX EZ GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00H6.Z",
+    "index_name": "ST ESG L.F.F.G.E.EZ NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00H7.Z",
+    "index_name": "ST ESG L.F.F.G.E.EZ PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00H8.Z",
+    "index_name": "ST ESG L.F.F.G.E.EZ GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00H9.Z",
+    "index_name": "ST ESG L.F.F.G.E.EZ PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00HA.Z",
+    "index_name": "STX GL.1800 EX EOZE.PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HB.Z",
+    "index_name": "STX GL.1800 EX EOZE.GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HC.Z",
+    "index_name": "STX GL.1800 EX EOZE.PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HD.Z",
+    "index_name": "STX GL.1800 EX EOZE.NR.DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HE.Z",
+    "index_name": "STX GL.1800 EX EOZE.GR.DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HF.Z",
+    "index_name": "STX GL.1800 EX EOZE.NR.EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Global",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HG.Z",
+    "index_name": "EUISTX ESG CH.50 EW GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HH.Z",
+    "index_name": "EUISTX ESG CH.50 EW PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HJ.Z",
+    "index_name": "EUISTX ESG CH.50 EW NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HK.Z",
+    "index_name": "EUISTX ESG CH.50 EW GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HL.Z",
+    "index_name": "EUISTX ESG CH.50 EW PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HM.Z",
+    "index_name": "EUISTX ESG CH.50 EW NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Factors"
+  },
+  {
+    "index_symbol": "00HN.Z",
+    "index_name": "STX ESG LD.EZ NR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00HP.Z",
+    "index_name": "STX ESG LD.EZ PR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": ""
+  },
+  {
+    "index_symbol": "00HQ.Z",
+    "index_name": "STX ESG LD.EZ GR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HR.Z",
+    "index_name": "STX ESG LD.EZ PR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HS.Z",
+    "index_name": "STX ESG LD.EZ NR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HT.Z",
+    "index_name": "STX ESG LD.EZ GR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HU.Z",
+    "index_name": "STX ESG LD.FO.FR.EZ NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HV.Z",
+    "index_name": "STX ESG LD.FO.FR.EZ PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HW.Z",
+    "index_name": "STX ESG LD.FO.FR.EZ GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HX.Z",
+    "index_name": "STX ESG LD.FO.FR.EZ PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HY.Z",
+    "index_name": "STX ESG LD.FO.FR.EZ NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00HZ.Z",
+    "index_name": "STX ESG LD.FO.FR.EZ GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00J7.Z",
+    "index_name": "STXE 600 O+G D.L.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00J8.Z",
+    "index_name": "STXE 600 O+G D.L.NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00J9.Z",
+    "index_name": "STXE 600 BANKS D.L.NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JA.Z",
+    "index_name": "STXE LR100 NR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JB.Z",
+    "index_name": "STXE LR100 PR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JC.Z",
+    "index_name": "STXE LR100 PR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JD.Z",
+    "index_name": "STXE LR200 GR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JE.Z",
+    "index_name": "STXE LR200 GR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JF.Z",
+    "index_name": "STXE LR200 NR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JG.Z",
+    "index_name": "STXE LR200 NR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JH.Z",
+    "index_name": "STXE LR200 PR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JJ.Z",
+    "index_name": "STXE LR200 PR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JK.Z",
+    "index_name": "STXE LR300 GR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JL.Z",
+    "index_name": "STXE LR300 GR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JM.Z",
+    "index_name": "STXE LR300 NR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JN.Z",
+    "index_name": "STXE LR300 NR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JP.Z",
+    "index_name": "STXE LR300 PR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JQ.Z",
+    "index_name": "STXE LR300 PR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JR.Z",
+    "index_name": "ESTX LR50 GR EUR",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00JS.Z",
+    "index_name": "ESTX LR50 GR USD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00K0.Z",
+    "index_name": "ISTX M.G.EX A.Q.150 NR AD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00K1.Z",
+    "index_name": "ISTX M.G.EX A.Q.150 GR AD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00K5.Z",
+    "index_name": "E.ISTX SM.QU.MVD.50 PR EO",
+    "currency": "EUR",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00K6.Z",
+    "index_name": "EU.ISTX 50 DEC.4.75 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00K7.Z",
+    "index_name": "EURO ISTX 50 DEC. 5 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Europe",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00K8.Z",
+    "index_name": "EU.ISTX 50 EW 4.75 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KA.Z",
+    "index_name": "ISTX MUTB GL.QU.150 NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KC.Z",
+    "index_name": "ISTX MUTB GL.QU.150 PR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KD.Z",
+    "index_name": "ISTX MUTB GL.QU.150 NR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KE.Z",
+    "index_name": "ISTX MUTB GL.QU.150 GR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KF.Z",
+    "index_name": "ISTX MUTB GL.QU.150 PR AD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KG.Z",
+    "index_name": "ISTX MUTB GL.QU.150 NR AD",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KJ.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 PR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KK.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 NR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KL.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 GR EO",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KM.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 PR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KN.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 NR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KP.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 GR DL",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KQ.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 PR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  },
+  {
+    "index_symbol": "00KR.Z",
+    "index_name": "ISTX M.G.EX J.Q.150 NR YN",
+    "currency": "",
+    "exchange_code": "ZRH",
+    "provider_guess": "Unclassified / multiple providers",
+    "market_scope_guess": "Unspecified / mixed",
+    "category": "Equities"
+  }
+]

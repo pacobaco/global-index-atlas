@@ -1,0 +1,569 @@
+{
+  "nodes": [
+    {
+      "id": "provider::Nasdaq",
+      "label": "Nasdaq",
+      "group": "provider",
+      "val": 22
+    },
+    {
+      "id": "region::Unspecified / mixed",
+      "label": "Unspecified / mixed",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "provider::Unclassified / multiple providers",
+      "label": "Unclassified / multiple providers",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "region::United States",
+      "label": "United States",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::Europe",
+      "label": "Europe",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::Emerging Markets",
+      "label": "Emerging Markets",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::Japan",
+      "label": "Japan",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::Global",
+      "label": "Global",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "provider::S&P Dow Jones Indices",
+      "label": "S&P Dow Jones Indices",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::FTSE Russell",
+      "label": "FTSE Russell",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "region::Middle East & Africa",
+      "label": "Middle East & Africa",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::Latin America",
+      "label": "Latin America",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::Asia-Pacific",
+      "label": "Asia-Pacific",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::China",
+      "label": "China",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "region::India",
+      "label": "India",
+      "group": "region",
+      "val": 4
+    },
+    {
+      "id": "provider::MSCI",
+      "label": "MSCI",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::NYSE",
+      "label": "NYSE",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::Japan Exchange / Nikkei",
+      "label": "Japan Exchange / Nikkei",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::Shanghai Stock Exchange",
+      "label": "Shanghai Stock Exchange",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::STOXX",
+      "label": "STOXX",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::Shenzhen Stock Exchange",
+      "label": "Shenzhen Stock Exchange",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::China Securities Index",
+      "label": "China Securities Index",
+      "group": "provider",
+      "val": 4
+    },
+    {
+      "id": "provider::Hang Seng Indexes",
+      "label": "Hang Seng Indexes",
+      "group": "provider",
+      "val": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Unspecified / mixed",
+      "weight": 22281
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Unspecified / mixed",
+      "weight": 22122
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::United States",
+      "weight": 9522
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Europe",
+      "weight": 3792
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Emerging Markets",
+      "weight": 2615
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Europe",
+      "weight": 2294
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Japan",
+      "weight": 2001
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::United States",
+      "weight": 1995
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Global",
+      "weight": 1617
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Unspecified / mixed",
+      "weight": 1398
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::United States",
+      "weight": 1383
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Global",
+      "weight": 1374
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Unspecified / mixed",
+      "weight": 1085
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Emerging Markets",
+      "weight": 946
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Middle East & Africa",
+      "weight": 896
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Latin America",
+      "weight": 796
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::Asia-Pacific",
+      "weight": 649
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::China",
+      "weight": 640
+    },
+    {
+      "source": "provider::Nasdaq",
+      "target": "region::India",
+      "weight": 494
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::United States",
+      "weight": 493
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Global",
+      "weight": 451
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Global",
+      "weight": 379
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Japan",
+      "weight": 306
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Global",
+      "weight": 300
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Emerging Markets",
+      "weight": 292
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Emerging Markets",
+      "weight": 275
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Unspecified / mixed",
+      "weight": 259
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Asia-Pacific",
+      "weight": 213
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Emerging Markets",
+      "weight": 196
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::United States",
+      "weight": 188
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Europe",
+      "weight": 156
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Europe",
+      "weight": 140
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Middle East & Africa",
+      "weight": 119
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Europe",
+      "weight": 110
+    },
+    {
+      "source": "provider::NYSE",
+      "target": "region::Unspecified / mixed",
+      "weight": 106
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::China",
+      "weight": 97
+    },
+    {
+      "source": "provider::Japan Exchange / Nikkei",
+      "target": "region::Japan",
+      "weight": 74
+    },
+    {
+      "source": "provider::Shanghai Stock Exchange",
+      "target": "region::Unspecified / mixed",
+      "weight": 73
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::India",
+      "weight": 59
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::China",
+      "weight": 57
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::India",
+      "weight": 52
+    },
+    {
+      "source": "provider::NYSE",
+      "target": "region::United States",
+      "weight": 51
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Japan",
+      "weight": 48
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Japan",
+      "weight": 38
+    },
+    {
+      "source": "provider::STOXX",
+      "target": "region::Unspecified / mixed",
+      "weight": 38
+    },
+    {
+      "source": "provider::STOXX",
+      "target": "region::Europe",
+      "weight": 35
+    },
+    {
+      "source": "provider::STOXX",
+      "target": "region::Global",
+      "weight": 30
+    },
+    {
+      "source": "provider::Shanghai Stock Exchange",
+      "target": "region::China",
+      "weight": 30
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::China",
+      "weight": 27
+    },
+    {
+      "source": "provider::NYSE",
+      "target": "region::Global",
+      "weight": 26
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Asia-Pacific",
+      "weight": 24
+    },
+    {
+      "source": "provider::Shenzhen Stock Exchange",
+      "target": "region::China",
+      "weight": 21
+    },
+    {
+      "source": "provider::Unclassified / multiple providers",
+      "target": "region::Latin America",
+      "weight": 19
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Japan",
+      "weight": 18
+    },
+    {
+      "source": "provider::Shanghai Stock Exchange",
+      "target": "region::United States",
+      "weight": 18
+    },
+    {
+      "source": "provider::STOXX",
+      "target": "region::Japan",
+      "weight": 18
+    },
+    {
+      "source": "provider::STOXX",
+      "target": "region::United States",
+      "weight": 16
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Asia-Pacific",
+      "weight": 16
+    },
+    {
+      "source": "provider::China Securities Index",
+      "target": "region::Emerging Markets",
+      "weight": 13
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Asia-Pacific",
+      "weight": 13
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Middle East & Africa",
+      "weight": 13
+    },
+    {
+      "source": "provider::China Securities Index",
+      "target": "region::Unspecified / mixed",
+      "weight": 12
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::India",
+      "weight": 9
+    },
+    {
+      "source": "provider::China Securities Index",
+      "target": "region::China",
+      "weight": 9
+    },
+    {
+      "source": "provider::Hang Seng Indexes",
+      "target": "region::Unspecified / mixed",
+      "weight": 9
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::China",
+      "weight": 9
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::India",
+      "weight": 7
+    },
+    {
+      "source": "provider::Shanghai Stock Exchange",
+      "target": "region::Global",
+      "weight": 6
+    },
+    {
+      "source": "provider::STOXX",
+      "target": "region::Asia-Pacific",
+      "weight": 6
+    },
+    {
+      "source": "provider::Shanghai Stock Exchange",
+      "target": "region::Emerging Markets",
+      "weight": 5
+    },
+    {
+      "source": "provider::China Securities Index",
+      "target": "region::United States",
+      "weight": 5
+    },
+    {
+      "source": "provider::Hang Seng Indexes",
+      "target": "region::China",
+      "weight": 5
+    },
+    {
+      "source": "provider::NYSE",
+      "target": "region::Emerging Markets",
+      "weight": 4
+    },
+    {
+      "source": "provider::NYSE",
+      "target": "region::Japan",
+      "weight": 4
+    },
+    {
+      "source": "provider::Japan Exchange / Nikkei",
+      "target": "region::Emerging Markets",
+      "weight": 4
+    },
+    {
+      "source": "provider::Japan Exchange / Nikkei",
+      "target": "region::Global",
+      "weight": 3
+    },
+    {
+      "source": "provider::Shanghai Stock Exchange",
+      "target": "region::Europe",
+      "weight": 3
+    },
+    {
+      "source": "provider::S&P Dow Jones Indices",
+      "target": "region::Latin America",
+      "weight": 2
+    },
+    {
+      "source": "provider::MSCI",
+      "target": "region::Middle East & Africa",
+      "weight": 2
+    },
+    {
+      "source": "provider::Shenzhen Stock Exchange",
+      "target": "region::Emerging Markets",
+      "weight": 2
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Middle East & Africa",
+      "weight": 2
+    },
+    {
+      "source": "provider::Japan Exchange / Nikkei",
+      "target": "region::China",
+      "weight": 1
+    },
+    {
+      "source": "provider::Hang Seng Indexes",
+      "target": "region::Global",
+      "weight": 1
+    },
+    {
+      "source": "provider::FTSE Russell",
+      "target": "region::Latin America",
+      "weight": 1
+    },
+    {
+      "source": "provider::Japan Exchange / Nikkei",
+      "target": "region::United States",
+      "weight": 1
+    }
+  ]
+}
